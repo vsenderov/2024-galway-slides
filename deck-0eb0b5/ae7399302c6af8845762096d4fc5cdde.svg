@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="784.25769mm"
+   height="167.83328mm"
+   viewBox="0 0 784.25769 167.83328"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="SMPGD_poster - Copy.svg"
+   xml:space="preserve"
+   inkscape:export-filename="SMPGD_poster.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#5b5b5b"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.36213173"
+     inkscape:cx="1587.82"
+     inkscape:cy="1184.6518"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs1"><linearGradient
+       id="swatch130"
+       inkscape:swatch="solid"><stop
+         style="stop-color:#e6e6e6;stop-opacity:1;"
+         offset="0"
+         id="stop130" /></linearGradient><style
+       type="text/css"
+       id="style1">*{stroke-linejoin: round; stroke-linecap: butt}</style><style
+       type="text/css"
+       id="style1-9">*{stroke-linejoin: round; stroke-linecap: butt}</style><style
+       type="text/css"
+       id="style1-91">*{stroke-linejoin: round; stroke-linecap: butt}</style></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-36.129499,-633.50887)"><rect
+       style="font-variation-settings:'wght' 300;fill:#1e1e1e;fill-opacity:1;stroke:none;stroke-width:0.284343;stroke-dasharray:none;stroke-opacity:1"
+       id="rect130"
+       width="400.0531"
+       height="467.56717"
+       x="17.426937"
+       y="134.94852"
+       inkscape:export-filename="2024-04-10 Galway\crbd-alignment.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" /><rect
+       style="font-variation-settings:'wght' 300;fill:#1e1e1e;fill-opacity:1;stroke:none;stroke-width:0.284343;stroke-dasharray:none;stroke-opacity:1"
+       id="rect130-6"
+       width="400.0531"
+       height="467.56717"
+       x="423.51996"
+       y="134.94852" /><text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.3;font-family:'Cascadia Code';-inkscape-font-specification:'Cascadia Code';white-space:pre;shape-inside:url(#rect130-6);display:inline;fill:#ffffff;stroke:#e6e6e6;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="498.03278"
+       y="58.379364"
+       id="text4"
+       transform="translate(7.8953819,5.845019)"><tspan
+         x="423.51953"
+         y="142.97833"
+         id="tspan4"><tspan
+           style="stroke:none"
+           id="tspan1">1</tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan2">  </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan3">function simulateSubtree(time: Real, lambda: Real, mu: Real) {
+</tspan></tspan><tspan
+         x="423.51953"
+         y="153.98499"
+         id="tspan19"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan5">2   </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan8"> </tspan><tspan
+           style="font-weight:bold;fill:#ff0000;stroke:none"
+           id="tspan14">assume</tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan15"> waitingTime ~ Exponential(lambda + mu);
+</tspan></tspan><tspan
+         x="423.51953"
+         y="165.46278"
+         id="tspan27"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan22">3    </tspan><tspan
+           style="font-weight:bold;fill:#ff0000;stroke:none"
+           id="tspan23">if</tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan26"> waitingTime &gt; time {
+</tspan></tspan><tspan
+         x="423.51953"
+         y="176.94056"
+         id="tspan34"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan31">4      </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan32">weight 0.0; resample; // CHECKPOINT
+</tspan></tspan><tspan
+         x="423.51953"
+         y="188.41834"
+         id="tspan44"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan35">5    </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan37">}</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan38"> </tspan><tspan
+           style="font-weight:bold;fill:#ff0000;stroke:none"
+           id="tspan39">else</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan40"> </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan41">{
+</tspan></tspan><tspan
+         x="423.51953"
+         y="199.89613"
+         id="tspan55"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan45">6      </tspan><tspan
+           style="font-weight:bold;fill:#ff0000;stroke:none"
+           id="tspan49">assume</tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan52"> isSpeciation ~ Bernoulli(lambda / (lambda + mu));
+</tspan></tspan><tspan
+         x="423.51953"
+         y="211.37391"
+         id="tspan65"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan56">7      </tspan><tspan
+           style="font-weight:bold;fill:#ff0000;stroke:none"
+           id="tspan59">if</tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan62"> isSpeciation {
+</tspan></tspan><tspan
+         x="423.51953"
+         y="222.85169"
+         id="tspan69"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan67">8        </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan68">simulateSubtree(time - waitingTime, lambda, mu);
+</tspan></tspan><tspan
+         x="423.51953"
+         y="234.32948"
+         id="tspan72"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan70">9        </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan71">simulateSubtree(time - waitingTime, lambda, mu);
+</tspan></tspan><tspan
+         x="423.51953"
+         y="245.80726"
+         id="tspan75"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan73">10     </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan74">}
+</tspan></tspan><tspan
+         x="423.51953"
+         y="257.28504"
+         id="tspan78"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan76">11   </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan77">}
+</tspan></tspan><tspan
+         x="423.51953"
+         y="268.76284"
+         id="tspan81"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan79">12 </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan80">}
+</tspan></tspan><tspan
+         x="423.51953"
+         y="280.24062"
+         id="tspan83"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan82">13
+</tspan></tspan><tspan
+         x="423.51953"
+         y="291.71841"
+         id="tspan87"><tspan
+           style="stroke:none"
+           id="tspan84">14</tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan85"> function</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan86"> walk(node: Tree, time:Real, lambda: Real, mu: Real) {
+</tspan></tspan><tspan
+         x="423.51953"
+         y="303.19619"
+         id="tspan89"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan88">15   assume waitingTime ~ Exponential(lambda);
+</tspan></tspan><tspan
+         x="423.51953"
+         y="314.67397"
+         id="tspan96"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan90">16   </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan93">if</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan94"> time - waitingTime &gt; node.age </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan95">{
+</tspan></tspan><tspan
+         x="423.51953"
+         y="326.15176"
+         id="tspan99"><tspan
+           style="fill:#e6e6e6;stroke:none"
+           id="tspan97">17</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ff0000;stroke:none"
+           id="tspan98">     simulateSubtree(time - waitingTime, lambda, mu);
+</tspan></tspan><tspan
+         x="423.51953"
+         y="337.62954"
+         id="tspan102"><tspan
+           style="fill:#e6e6e6;stroke:none"
+           id="tspan100">18</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ff0000;stroke:none"
+           id="tspan101">     observe 0 ~ Poisson(mu * waitingTime); // CHECKPOINT
+</tspan></tspan><tspan
+         x="423.51953"
+         y="349.10732"
+         id="tspan105"><tspan
+           style="fill:#e6e6e6;stroke:none"
+           id="tspan103">19</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ff0000;stroke:none"
+           id="tspan104">     walk(node, time - waitingTime, lambda, mu);
+</tspan></tspan><tspan
+         x="423.51953"
+         y="360.58511"
+         id="tspan112"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan106">20</tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan107">   }</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan108"> </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan109">else</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan110"> </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan111">{
+</tspan></tspan><tspan
+         x="423.51953"
+         y="372.06289"
+         id="tspan122"><tspan
+           style="fill:#e6e6e6;stroke:none"
+           id="tspan116">21</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ff0000;stroke:none"
+           id="tspan118">     </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan119">observe</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ff0000;stroke:none"
+           id="tspan121"> 0 ~ Poisson(mu * (time - node.age)); // CHECKPOINT
+</tspan></tspan><tspan
+         x="423.51953"
+         y="383.54067"
+         id="tspan133"><tspan
+           style="fill:#e6e6e6;stroke:none"
+           id="tspan125">22</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ff0000;stroke:none"
+           id="tspan128">     </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan129">if</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ff0000;stroke:none"
+           id="tspan130"> node </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan131">is</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ff0000;stroke:none"
+           id="tspan132"> Node {
+</tspan></tspan><tspan
+         x="423.51953"
+         y="395.01846"
+         id="tspan150"><tspan
+           style="fill:#e6e6e6;stroke:none"
+           id="tspan140">23</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ff0000;stroke:none"
+           id="tspan144">       </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan146">observe</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ff0000;stroke:none"
+           id="tspan147"> 0.0 ~ Exponential(lambda); // CHECKPOINT
+</tspan></tspan><tspan
+         x="423.51953"
+         y="406.49624"
+         id="tspan161"><tspan
+           style="fill:#e6e6e6;stroke:none"
+           id="tspan155">24</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ff0000;stroke:none"
+           id="tspan160">       walk(node.left, node.age, lambda, mu);
+</tspan></tspan><tspan
+         x="423.51953"
+         y="417.97402"
+         id="tspan168"><tspan
+           style="fill:#e6e6e6;stroke:none"
+           id="tspan164">25</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ff0000;stroke:none"
+           id="tspan167">       walk(node.right, node.age, lambda, mu);
+</tspan></tspan><tspan
+         x="423.51953"
+         y="429.45181"
+         id="tspan176"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan171">26     </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan174">}
+</tspan></tspan><tspan
+         x="423.51953"
+         y="440.92959"
+         id="tspan179"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan177">27   </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan178">}
+</tspan></tspan><tspan
+         x="423.51953"
+         y="452.40737"
+         id="tspan181"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan180">28 }
+</tspan></tspan><tspan
+         x="423.51953"
+         y="463.88516"
+         id="tspan187"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan182">29
+</tspan></tspan><tspan
+         x="423.51953"
+         y="475.36294"
+         id="tspan197"><tspan
+           style="stroke:none"
+           id="tspan188">30</tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan189"> model</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan191"> </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan193">function</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan194"> crbd(tree: Tree): Real[] {
+</tspan></tspan><tspan
+         x="423.51953"
+         y="486.84072"
+         id="tspan201"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan198">31   </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan199">assume</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan200"> lambda ~ Gamma(1.0, 1.0);
+</tspan></tspan><tspan
+         x="423.51953"
+         y="498.3185"
+         id="tspan207"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan202">32   </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan203">assume</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan204"> mu ~ Gamma(1.0, 0.5);
+</tspan></tspan><tspan
+         x="423.51953"
+         y="509.79629"
+         id="tspan212"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan211">33   walk(tree.left, tree.age, lambda, mu);
+</tspan></tspan><tspan
+         x="423.51953"
+         y="521.2741"
+         id="tspan226"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan223">34   walk(tree.right, tree.age, lambda, mu);
+</tspan></tspan><tspan
+         x="423.51953"
+         y="532.75188"
+         id="tspan247"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan229">35   </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan236">return</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan243"> [lambda, mu];
+</tspan></tspan><tspan
+         x="423.51953"
+         y="544.22967"
+         id="tspan252"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#e6e6e6;stroke:none"
+           id="tspan248">36 }</tspan></tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.3;font-family:'Cascadia Code';-inkscape-font-specification:'Cascadia Code';white-space:pre;shape-inside:url(#rect130);display:inline;fill:#e6e6e6;stroke:#e6e6e6;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="85.228996"
+       y="112.89343"
+       id="text1"
+       transform="translate(7.8953819,5.845019)"><tspan
+         x="17.427734"
+         y="142.97833"
+         id="tspan262"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan255">1  </tspan><tspan
+           style="font-weight:bold;fill:#ff0000;stroke:none"
+           id="tspan256">function</tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan259"> simulateExtinctSubtrees(time: Real, lambda: Real, mu: Real) {
+</tspan></tspan><tspan
+         x="17.427734"
+         y="154.45611"
+         id="tspan271"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan265">2    </tspan><tspan
+           style="font-weight:bold;fill:#ff0000;stroke:none"
+           id="tspan268">assume</tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan270"> delta ~ Exponential(lambda + mu);
+</tspan></tspan><tspan
+         x="17.427734"
+         y="165.93389"
+         id="tspan277"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan274">3    </tspan><tspan
+           style="font-weight:bold;fill:#ff0000;stroke:none"
+           id="tspan275">if</tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan276"> delta &gt; time {
+</tspan></tspan><tspan
+         x="17.427734"
+         y="177.41167"
+         id="tspan297"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan280">4      </tspan><tspan
+           style="font-weight:bold;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';fill:#ff0000;stroke:none"
+           id="tspan281">weight</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';fill:#ff0000;stroke:none"
+           id="tspan285"> 0.0; </tspan><tspan
+           style="font-weight:bold;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';fill:#ff0000;stroke:none"
+           id="tspan289">resample</tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan292">;  // CHECKPOINT</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';stroke:none"
+           id="tspan295"> 
+</tspan></tspan><tspan
+         x="17.427734"
+         y="188.88946"
+         id="tspan309"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan298">5    </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan299">}</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan300"> </tspan><tspan
+           style="font-weight:bold;fill:#ff0000;stroke:none"
+           id="tspan303">else</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan304"> </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan307">{
+</tspan></tspan><tspan
+         x="17.427734"
+         y="200.36724"
+         id="tspan318"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan311">6      </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan316">assume</tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan317"> speciation ~ Bernoulli(lambda/(lambda + mu));
+</tspan></tspan><tspan
+         x="17.427734"
+         y="211.84502"
+         id="tspan333"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan328">7      </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan329">if</tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan332"> speciation {
+</tspan></tspan><tspan
+         x="17.427734"
+         y="223.32281"
+         id="tspan336"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan334">8        </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan335">simulateExtinctSubtrees(time - delta, lambda, mu);
+</tspan></tspan><tspan
+         x="17.427734"
+         y="234.80059"
+         id="tspan339"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan337">9        </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan338">simulateExtinctSubtrees(time - delta, lambda, mu);
+</tspan></tspan><tspan
+         x="17.427734"
+         y="246.27837"
+         id="tspan344"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan340">10     </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan342">}
+</tspan></tspan><tspan
+         x="17.427734"
+         y="257.75616"
+         id="tspan347"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan345">11   </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan346">}
+</tspan></tspan><tspan
+         x="17.427734"
+         y="269.23394"
+         id="tspan359"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan352">12 </tspan><tspan
+           style="font-weight:bold;fill:#ff0000;stroke:none"
+           id="tspan358">}
+</tspan></tspan><tspan
+         x="17.427734"
+         y="280.71172"
+         id="tspan363"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan362">13
+</tspan></tspan><tspan
+         x="17.427734"
+         y="292.18951"
+         id="tspan369"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan366">14 </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan367">function</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan368"> 
+</tspan></tspan><tspan
+         x="17.427734"
+         y="303.66729"
+         id="tspan371"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan370">15 simulateUnobservedSpeciations(node: Tree, time: Real, lambda: Real, mu: Real) {
+</tspan></tspan><tspan
+         x="17.427734"
+         y="315.14507"
+         id="tspan377"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan372">16   </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan375">assume</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan376"> delta ~ Exponential(lambda);
+</tspan></tspan><tspan
+         x="17.427734"
+         y="326.62286"
+         id="tspan392"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan388">17   </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan389">if</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan390"> time - delta &gt; node.age </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan391">{
+</tspan></tspan><tspan
+         x="17.427734"
+         y="338.10064"
+         id="tspan395"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan393">18     </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan394">simulateExtinctSubtrees(time - delta, lambda, mu);
+</tspan></tspan><tspan
+         x="17.427734"
+         y="349.57842"
+         id="tspan398"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan396">19     </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan397">simulateUnobservedSpeciations(node, time - delta, lambda, mu);
+</tspan></tspan><tspan
+         x="17.427734"
+         y="361.05621"
+         id="tspan401"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan399">20   </tspan><tspan
+           style="fill:#ff0000;stroke:none"
+           id="tspan400">}
+</tspan></tspan><tspan
+         x="17.427734"
+         y="372.53399"
+         id="tspan403"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan402">21 }
+</tspan></tspan><tspan
+         x="17.427734"
+         y="384.01177"
+         id="tspan405"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan404">22
+</tspan></tspan><tspan
+         x="17.427734"
+         y="395.48956"
+         id="tspan409"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan406">23 </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan407">function</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan408"> walk(node: Tree, time:Real, lambda: Real, mu: Real) {
+</tspan></tspan><tspan
+         x="17.427734"
+         y="406.96734"
+         id="tspan411"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan410">24   simulateUnobservedSpeciations(node, time, lambda, mu);
+</tspan></tspan><tspan
+         x="17.427734"
+         y="418.44512"
+         id="tspan415"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan412">25   </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan413">observe</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan414"> 0 ~ Poisson(mu * (time - node.age)); // CHECKPOINNT
+</tspan></tspan><tspan
+         x="17.427734"
+         y="429.92291"
+         id="tspan421"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan416">26   </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan417">if</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan418"> node </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan419">is</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan420"> Node {
+</tspan></tspan><tspan
+         x="17.427734"
+         y="441.40069"
+         id="tspan423"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan422">27     observe 0.0 ~ Exponential(lambda); // CHECKPOINT
+</tspan></tspan><tspan
+         x="17.427734"
+         y="452.87847"
+         id="tspan425"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan424">28     walk(node.left, node.age, lambda, mu);
+</tspan></tspan><tspan
+         x="17.427734"
+         y="464.35626"
+         id="tspan427"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan426">29     walk(node.right, node.age, lambda, mu);
+</tspan></tspan><tspan
+         x="17.427734"
+         y="475.83404"
+         id="tspan429"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan428">30   }
+</tspan></tspan><tspan
+         x="17.427734"
+         y="487.31182"
+         id="tspan431"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan430">31 }
+</tspan></tspan><tspan
+         x="17.427734"
+         y="498.7896"
+         id="tspan433"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan432">32
+</tspan></tspan><tspan
+         x="17.427734"
+         y="510.26739"
+         id="tspan439"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan434">33 </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan435">model</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan436"> </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan437">function</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan438"> crbd(tree: Tree): Real[] {
+</tspan></tspan><tspan
+         x="17.427734"
+         y="521.74517"
+         id="tspan443"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan440">34   </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan441">assume</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan442"> lambda ~ Gamma(1.0, 1.0);
+</tspan></tspan><tspan
+         x="17.427734"
+         y="533.22295"
+         id="tspan447"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan444">35   </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan445">assume</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan446"> mu ~ Gamma(1.0, 0.5);
+</tspan></tspan><tspan
+         x="17.427734"
+         y="544.70074"
+         id="tspan449"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan448">36   walk(tree.left, tree.age, lambda, mu);
+</tspan></tspan><tspan
+         x="17.427734"
+         y="556.17852"
+         id="tspan451"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan450">37   walk(tree.right, tree.age, lambda, mu);
+</tspan></tspan><tspan
+         x="17.427734"
+         y="567.6563"
+         id="tspan455"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan452">38   </tspan><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan453">return</tspan><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan454"> [lambda, mu];
+</tspan></tspan><tspan
+         x="17.427734"
+         y="579.13409"
+         id="tspan457"><tspan
+           style="font-family:Consolas;-inkscape-font-specification:'Consolas, @wght=300';font-variation-settings:'wght' 300;stroke:none"
+           id="tspan456">39 }</tspan></tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:1.5;font-family:Sans;-inkscape-font-specification:'Sans, Bold ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       x="425.58801"
+       y="643.67719"
+       id="text192"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.3"
+         x="425.58801"
+         y="643.67719"
+         id="tspan323">Example ancestor graph and checkpoint mis-alignment</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.3"
+         x="425.58801"
+         y="663.979"
+         id="tspan218" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.3"
+         x="425.58801"
+         y="683.56494"
+         id="tspan219">&gt; 4.</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.3"
+         x="425.58801"
+         y="703.15088"
+         id="tspan208"
+         dx="0 0 0 0 0 0 2.7398524">&gt; 18. 4. </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.3"
+         x="425.58801"
+         y="722.73682"
+         id="tspan209">&gt; 18.<tspan
+   style="font-size:12.7px;fill:#000000"
+   id="tspan305"> 21</tspan>——21——23——21——4.</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.3"
+         x="425.58801"
+         y="742.32275"
+         id="tspan217">&gt; 21<tspan
+   style="font-size:12.7px;fill:#808080"
+   id="tspan308">——18.</tspan> 21——23——21<tspan
+   style="font-size:12.7px;fill:#808080"
+   id="tspan322">——18.</tspan> 21😐 (λ, μ) = (0.0244, 0.323)</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.3"
+         x="425.58801"
+         y="761.90869"
+         id="tspan210"><tspan
+   style="font-size:12.7px;fill:#808080"
+   id="tspan287">&gt; 18. 18. 21——21.</tspan> <tspan
+   id="tspan319"
+   style="font-size:12.7px;fill:#808080">18. </tspan><tspan
+   style="font-size:12.7px;fill:#000000"
+   id="tspan315"
+   dx="1.0709055e-08">21——21😊 (λ, μ) = (0.0244, 0.323)</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.3"
+         x="425.58801"
+         y="781.49457"
+         id="tspan225"><tspan
+           id="tspan310"
+           style="font-size:12.7px;fill:#808080">&gt; 18.</tspan><tspan
+           id="tspan306"
+           style="font-size:12.7px;fill:#000000"> </tspan><tspan
+           id="tspan314"
+           style="font-size:12.7px;fill:#808080">21——18.     18. 18. </tspan><tspan
+           id="tspan321"
+           style="font-size:12.7px;fill:#000000">21😐 (λ, μ) = (0.0244, 0.323)</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.3"
+         x="425.58801"
+         y="801.08051"
+         id="tspan357">...</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.5;font-family:Sans;-inkscape-font-specification:'Sans, Bold ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       x="868.41504"
+       y="75.354645"
+       id="text192-7-10-0-3-1-8-6"
+       transform="rotate(51.505104)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.3"
+         x="868.41504"
+         y="75.354645"
+         id="tspan217-0-1-7-3-61-6-4">——</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.3"
+         x="868.41504"
+         y="90.559608"
+         id="tspan225-3-7-8-5-39-5-1" /></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.5;font-family:Sans;-inkscape-font-specification:'Sans, Bold ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="935.32764"
+       y="20.696743"
+       id="text192-7-10-0-3-1-8-6-9"
+       transform="rotate(51.505104)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.3"
+         x="935.32764"
+         y="20.696743"
+         id="tspan217-0-1-7-3-61-6-4-1">——</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.3"
+         x="935.32764"
+         y="35.901707"
+         id="tspan225-3-7-8-5-39-5-1-5" /></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.5;font-family:Sans;-inkscape-font-specification:'Sans, Bold ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="967.07178"
+       y="12.480472"
+       id="text192-7-10-0-3-1-8-6-9-0"
+       transform="rotate(51.505104)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.3"
+         x="967.07178"
+         y="12.480472"
+         id="tspan217-0-1-7-3-61-6-4-1-2">——</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.3"
+         x="967.07178"
+         y="27.685436"
+         id="tspan225-3-7-8-5-39-5-1-5-1" /></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.5;font-family:Sans;-inkscape-font-specification:'Sans, Bold ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="-220.02628"
+       y="-931.99518"
+       id="text192-7-10-0-3-1-8-6-9-0-2"
+       transform="matrix(0.62244492,-0.78266361,-0.78266361,-0.62244492,0,0)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.3"
+         x="-220.02628"
+         y="-931.99518"
+         id="tspan217-0-1-7-3-61-6-4-1-2-2">——</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.3"
+         x="-220.02628"
+         y="-916.79022"
+         id="tspan225-3-7-8-5-39-5-1-5-1-3" /></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.5;font-family:Sans;-inkscape-font-specification:'Sans, Bold ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="-293.13879"
+       y="-810.68182"
+       id="text192-7-10-0-3-1-8-6-9-0-2-6"
+       transform="matrix(0.62244492,-0.78266361,-0.78266361,-0.62244492,0,0)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.3"
+         x="-293.13879"
+         y="-810.68182"
+         id="tspan217-0-1-7-3-61-6-4-1-2-2-0">——</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.3"
+         x="-293.13879"
+         y="-795.47687"
+         id="tspan225-3-7-8-5-39-5-1-5-1-3-4" /></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       x="35.011703"
+       y="643.67719"
+       id="text324"><tspan
+         sodipodi:role="line"
+         id="tspan324"
+         style="font-weight:bold;font-size:14.1111px;fill:#000000;stroke-width:0.3"
+         x="35.011703"
+         y="643.67719">Example ancestor graph and checkpoint alignment</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#808080;stroke-width:0.3"
+         x="35.011703"
+         y="663.44305"
+         id="tspan355" /><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#808080;stroke-width:0.3"
+         x="35.011703"
+         y="682.49304"
+         id="tspan356">&gt; 4. </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#808080;stroke-width:0.3"
+         x="35.011703"
+         y="701.54309"
+         id="tspan330">&gt; 25——25——27—— 4. </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#808080;stroke-width:0.3"
+         x="35.011703"
+         y="720.59308"
+         id="tspan331">&gt; 25——25——27——25——4. </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#000000;stroke-width:0.3"
+         x="35.011703"
+         y="740.06317"
+         id="tspan341">&gt; 25——25——27——25——25😊 (λ, μ) = (0.133, 0.791)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#000000;stroke-width:0.3"
+         x="35.011703"
+         y="759.53326"
+         id="tspan353">&gt; 25——25——27——25——25😊 (λ, μ) = (0.205, 0.590)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#000000;stroke-width:0.3"
+         x="35.011703"
+         y="779.00336"
+         id="tspan354">&gt; 25——25——27——25——25😊 (λ, μ) = (0.016, 0.003)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;fill:#000000;stroke-width:0.3"
+         x="35.011703"
+         y="798.05334"
+         id="tspan343">...</tspan></text><rect
+       style="font-variation-settings:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.251887;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect427-4"
+       width="803.00745"
+       height="57.685337"
+       x="18.630938"
+       y="14.899058" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;line-height:1.5;font-family:'Cascadia Code';-inkscape-font-specification:'Cascadia Code, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect427-4);display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="233.80075"
+       y="42.376381"
+       id="text462"><tspan
+         x="26.566172"
+         y="35.608615"
+         id="tspan459"><tspan
+           style="stroke-linejoin:round"
+           id="tspan458">Aligning Probabilistic Programs for Sequential Monte Carlo Inference </tspan></tspan><tspan
+         x="298.59152"
+         y="65.242015"
+         id="tspan461"><tspan
+           style="stroke-linejoin:round"
+           id="tspan460">on Evolutionary Trees</tspan></tspan></text><rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect596"
+       width="790.53876"
+       height="175.35056"
+       x="35.07011"
+       y="995.11438" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.5;font-family:'Cascadia Code';-inkscape-font-specification:'Cascadia Code, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect596);display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="134.43542"
+       y="1015.572"
+       id="text596"
+       transform="translate(-10.292535,0.52916667)"><tspan
+         x="43.386725"
+         y="1008.4289"
+         id="tspan463"><tspan
+           style="fill:#000000;stroke-width:0.5;stroke-linejoin:round"
+           id="tspan462">In this presentation, we illustrate a design pattern to improve the efficiency of probabilistic programs </tspan></tspan><tspan
+         x="73.152349"
+         y="1027.4789"
+         id="tspan465"><tspan
+           style="fill:#000000;stroke-width:0.5;stroke-linejoin:round"
+           id="tspan464">for birth-death models of evolution coupled with sequential Monte Carlo inference.  Download our </tspan></tspan><tspan
+         x="136.4043"
+         y="1046.5289"
+         id="tspan467"><tspan
+           style="fill:#000000;stroke-width:0.5;stroke-linejoin:round"
+           id="tspan466">phylogenetic probabilistic programming language, TreePPL, and try for yourself!</tspan></tspan></text></g></svg>
